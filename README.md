@@ -18,7 +18,7 @@
 Install [Node.js and NPM](https://nodejs.org/en/download/)
 Install a MySQL Database (i used XAMPP).
 
-### Step 2: Fork this project
+### Step 2: download this project
 
 Configure package.json for your own project.
 
